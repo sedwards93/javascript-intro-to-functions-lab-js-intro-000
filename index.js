@@ -16,3 +16,10 @@ function logWhisper(string) {
 
 var = uppercase
 uppercase.toUppercase() === uppercase
+
+var = lowercase
+lowercase.toLowerCase() === lowercase
+
+var = mixedCase
+mixedCase.toLowerCase() === mixedCase
+mixedCase.toUpperCase() === mixedCase
