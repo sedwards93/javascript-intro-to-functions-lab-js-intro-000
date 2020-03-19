@@ -14,6 +14,5 @@ function logWhisper(string) {
   console.log string.toLowerCase ()
 }
 
-var = uppercase 
+var = uppercase
 uppercase.toUppercase() === uppercase
-
